@@ -1,4 +1,6 @@
-# Palindrome
+### EX NO:02
+### DATE: 
+# <p align="center"> Palindrome</p> 
 
 
 ## Aim:
