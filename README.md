@@ -55,7 +55,8 @@ namespace palindrome
 }
 ```
 ## Output:
-![2](https://user-images.githubusercontent.com/75235477/165475071-b1d5d8bb-dc8e-40f4-9bad-7c3b35e0e671.png)
+
+![165475071-b1d5d8bb-dc8e-40f4-9bad-7c3b35e0e671](https://user-images.githubusercontent.com/75235477/174749519-44faa070-5852-4e04-8af5-21b9f74dd838.png)
 
 
 ## Result:
